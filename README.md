@@ -1,1 +1,1 @@
-Song lyrics with timing written in Java
+Song lyrics with GUI written in Java
