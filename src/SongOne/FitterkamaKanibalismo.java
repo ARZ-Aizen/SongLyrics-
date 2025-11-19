@@ -109,7 +109,7 @@ public class FitterkamaKanibalismo implements ActionListener {
 
 		frame.add(mainPanel, BorderLayout.CENTER);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setTitle("♥");
+		frame.setTitle("Pag-ibig ay Kanibalismo II");
 		frame.setSize(1000, 450);
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
@@ -196,4 +196,5 @@ public class FitterkamaKanibalismo implements ActionListener {
 			new FitterkamaKanibalismo();
 		});
 	}
+
 }
