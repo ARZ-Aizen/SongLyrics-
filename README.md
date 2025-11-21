@@ -1,1 +1,1 @@
-Song lyrics with GUI written in Java
+Song with lyrics that has GUI and written in Java
